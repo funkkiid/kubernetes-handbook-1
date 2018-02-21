@@ -1,17 +1,12 @@
 # 目录
 
 ### 前言
-
 - [序言](README.md)
-
 ### 云原生
-
 - [Play with Kubernetes](cloud-native/play-with-kubernetes.md)
 - [Kubernetes与云原生应用概览](cloud-native/kubernetes-and-cloud-native-app-overview.md)
 - [云原生应用之路——从Kubernetes到Cloud Native](cloud-native/from-kubernetes-to-cloud-native.md)
-
 ### 概念与原理
-
 - [Kubernetes架构](concepts/index.md)
   - [设计理念](concepts/concepts.md)
   - [Etcd解析](concepts/etcd.md)
@@ -66,9 +61,7 @@
     - [使用自定义资源扩展API](concepts/custom-resource.md)
     - [Aggregated API Server](concepts/aggregated-api-server.md)
     - [APIService](concepts/apiservice.md)
-
 ### 用户指南
-
 - [用户指南](guide/index.md)
 - [资源对象配置](guide/resource-configuration.md)
   - [配置Pod的liveness和readiness探针](guide/configure-liveness-readiness-probes.md)
@@ -101,9 +94,7 @@
   - [适用于kubernetes的应用开发部署流程](guide/deploy-applications-in-kubernetes.md)
   - [迁移传统应用到Kubernetes中——以Hadoop YARN为例](guide/migrating-hadoop-yarn-to-kubernetes.md)
   - [使用StatefulSet部署用状态应用](guide/using-statefulset.md)
-
 ### 最佳实践
-
 - [最佳实践概览](practice/index.md)
 - [在CentOS上部署Kubernetes集群](practice/install-kubernetes-on-centos.md)
   - [创建TLS证书和秘钥](practice/create-tls-and-secret-key.md)
@@ -153,9 +144,7 @@
 - [更新与升级](practice/update-and-upgrade.md)
   - [手动升级Kubernetes集群](practice/manually-upgrade.md)
   - [升级dashboard](practice/dashboard-upgrade.md)
-
 ### 领域应用
-
 - [领域应用概览](usecases/index.md)
 - [微服务架构](usecases/microservices.md)
   - [微服务中的服务发现](usecases/service-discovery-in-microservices.md)
@@ -180,7 +169,6 @@
 - [边缘计算](usecases/edge-computing.md)
 
 ### 开发指南
-
 - [开发指南概览](develop/index.md)
 - [SIG和工作组](develop/sigs-and-working-group.md)
 - [开发环境搭建](develop/developing-environment.md)
@@ -191,9 +179,7 @@
 - [高级开发指南](develop/advance-developer.md)
 - [社区贡献](develop/contribute.md)
 - [Minikube](develop/minikube.md)
-
 ### 附录
-
 - [附录说明](appendix/index.md)
 - [Kubernetes中的应用故障排查](appendix/debug-kubernetes-services.md)
 - [Kubernetes相关资讯和情报链接](appendix/material-share.md)
